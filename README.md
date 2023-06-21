@@ -3,6 +3,12 @@
 # Opeva project UNIGE Testbed
 To be done ...
 
+# Setup
+
+```
+git clone --recurse-submodules https://github.com/terilenard/opeva-unige-testbed.git
+```
+
 # Research
 To be done ...
 
